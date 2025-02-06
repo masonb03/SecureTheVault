@@ -12,7 +12,7 @@ console.log(last);
 //Step 5: Create a alert
 //Step 6: Type in the message that is required
 //Step 7: Insert literal templates including the string as the end
-//Step 8: Surroudn the text with back ticks so the literal templates work
+//Step 8: Surround the text with back ticks so the literal templates work
 
 
 alert(`You have recieved this message because you have been chosen to open an important vault. Here is the secret combination: ${first} - ${second} - ${last}`);
